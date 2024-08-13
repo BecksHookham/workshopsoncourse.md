@@ -16,4 +16,6 @@ July Hires
 - Amir (QA Enginer at RemitOne)
 - Josh (Data Engineer at Elsevier)
 - Jehoshua (Conference Badges - Events Tech)
+
+  Intro To Each Developer
  
