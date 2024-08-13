@@ -1,5 +1,6 @@
 * Intro Becks
 
+  - Part-Time: Workshops and content
   - Changes to the market
   - Companies priorities referrals
   - Job Hunters are becoming more flexible - customer support engineer
